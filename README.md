@@ -18,30 +18,6 @@ You don't need to be a sysadmin. The tools are free, the labs run on a local sit
 
 ---
 
-## Lessons
-
-| #   | Lesson                                                               | Status                                   | Materials                                                  |
-| --- | -------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------- |
-| 1   | How WordPress Actually Loads a Page                                  | 🎬 On YouTube                            | —                                                          |
-| 2   | Choosing WordPress Hosting: Why Storage Isn't the Number That Breaks | 🎬 [Watch](https://youtu.be/BQmJqJUNbYc) | [Materials](lessons/lesson-02-choosing-wordpress-hosting/) |
-| 3   | The Real Causes of Slow WordPress Sites                              | ⏳ Coming soon                           | —                                                          |
-| 4   | Caching Done Properly                                                | ⏳ Coming soon                           | —                                                          |
-| 5   | Database Performance and Query Mistakes                              | ⏳ Coming soon                           | —                                                          |
-| 6   | Plugin and Theme Performance Auditing                                | ⏳ Coming soon                           | —                                                          |
-| 7   | Frontend Performance for WordPress                                   | ⏳ Coming soon                           | —                                                          |
-| 8   | WooCommerce and Dynamic Site Optimization                            | ⏳ Coming soon                           | —                                                          |
-| 9   | Server, PHP, and Hosting-Level Optimization                          | ⏳ Coming soon                           | —                                                          |
-| 10  | Debugging Performance Like an Engineer                               | ⏳ Coming soon                           | —                                                          |
-| 11  | Common WordPress Mistakes and How to Prevent Them                    | ⏳ Coming soon                           | —                                                          |
-| 12  | A Professional Local WordPress Debugging Environment                 | ⏳ Coming soon                           | —                                                          |
-| 13  | Xdebug with LocalWP and VS Code                                      | ⏳ Coming soon                           | —                                                          |
-| 14  | Profiling WordPress with Xdebug and Cachegrind                       | ⏳ Coming soon                           | —                                                          |
-| 15  | WP-CLI, Logs, Reproducing Bugs, and Evidence-Based Fixes             | ⏳ Coming soon                           | —                                                          |
-
-Materials are added here as each lesson is published. ⭐ **Star the repo** and **subscribe to the playlist** to follow along.
-
----
-
 ## How to use this repo
 
 Each published lesson lives under `lessons/` and is self-contained. Open the lesson's own `README.md` first — it links the video and explains what every file is for. Most lessons include a hands-on lab you run on a **local** WordPress site (the course uses the free [LocalWP](https://localwp.com)).
