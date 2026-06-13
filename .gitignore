@@ -1,0 +1,20 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.vscode/
+.idea/
+
+# k6 result dumps
+*.json.gz
+summary.json
+k6-results/
+
+# Node (if any tooling is added later)
+node_modules/
+npm-debug.log*
+
+# Local env
+.env
+.env.local
